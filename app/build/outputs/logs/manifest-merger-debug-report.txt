@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:15:1-34:12
+INJECTED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:15:1-34:12
+INJECTED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:15:1-34:12
+INJECTED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:15:1-34:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\b5182813fa824de7548f6fc922f3813b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e4fe81d81bbeb196d44c2e794ced1540\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\42d6841ddd2acf96258cd250df49c7a4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fdb8ecf8dfa9dff6c82859ac1ef2a383\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\9da5b3f241442b4896f55075006972c1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\15016477a0c3ca04612f8f995fe81ebe\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0d5652c101bf8a2edd62771aaf5b6faa\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6fd1b5a77f4af7ff253b416d35c594a5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\226c14d52069949b475354616f1e5be4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\be281ff61754c6e6374fa98cf3425981\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:15:1-34:12
+INJECTED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:15:1-34:12
+INJECTED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:15:1-34:12
+	package
+		ADDED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:16:11-49
+		INJECTED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml
+		ADDED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:15:1-34:12
+		INJECTED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml
+		ADDED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:15:1-34:12
+		INJECTED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:15:11-69
+application
+ADDED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:18:5-32:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\b5182813fa824de7548f6fc922f3813b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\b5182813fa824de7548f6fc922f3813b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e4fe81d81bbeb196d44c2e794ced1540\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e4fe81d81bbeb196d44c2e794ced1540\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\42d6841ddd2acf96258cd250df49c7a4\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\42d6841ddd2acf96258cd250df49c7a4\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fdb8ecf8dfa9dff6c82859ac1ef2a383\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fdb8ecf8dfa9dff6c82859ac1ef2a383\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\9da5b3f241442b4896f55075006972c1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\9da5b3f241442b4896f55075006972c1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\15016477a0c3ca04612f8f995fe81ebe\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\15016477a0c3ca04612f8f995fe81ebe\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0d5652c101bf8a2edd62771aaf5b6faa\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0d5652c101bf8a2edd62771aaf5b6faa\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6fd1b5a77f4af7ff253b416d35c594a5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6fd1b5a77f4af7ff253b416d35c594a5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\226c14d52069949b475354616f1e5be4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\226c14d52069949b475354616f1e5be4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\be281ff61754c6e6374fa98cf3425981\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\be281ff61754c6e6374fa98cf3425981\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:21:9-41
+	android:roundIcon
+		ADDED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:22:9-54
+	android:icon
+		ADDED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.example.android.tiltspot.MainActivity
+ADDED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:25:19-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:27:17-68
+	android:name
+		ADDED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml
+INJECTED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\b5182813fa824de7548f6fc922f3813b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\b5182813fa824de7548f6fc922f3813b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e4fe81d81bbeb196d44c2e794ced1540\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e4fe81d81bbeb196d44c2e794ced1540\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\42d6841ddd2acf96258cd250df49c7a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\42d6841ddd2acf96258cd250df49c7a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fdb8ecf8dfa9dff6c82859ac1ef2a383\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fdb8ecf8dfa9dff6c82859ac1ef2a383\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\9da5b3f241442b4896f55075006972c1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\9da5b3f241442b4896f55075006972c1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\15016477a0c3ca04612f8f995fe81ebe\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\15016477a0c3ca04612f8f995fe81ebe\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0d5652c101bf8a2edd62771aaf5b6faa\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0d5652c101bf8a2edd62771aaf5b6faa\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6fd1b5a77f4af7ff253b416d35c594a5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6fd1b5a77f4af7ff253b416d35c594a5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\226c14d52069949b475354616f1e5be4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\226c14d52069949b475354616f1e5be4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\be281ff61754c6e6374fa98cf3425981\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\be281ff61754c6e6374fa98cf3425981\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml
+INJECTED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\b5182813fa824de7548f6fc922f3813b\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml
+		ADDED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml
+		ADDED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Wireless Bread\TiltSpot_start\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\b5182813fa824de7548f6fc922f3813b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\42d6841ddd2acf96258cd250df49c7a4\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\42d6841ddd2acf96258cd250df49c7a4\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fdb8ecf8dfa9dff6c82859ac1ef2a383\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fdb8ecf8dfa9dff6c82859ac1ef2a383\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\9da5b3f241442b4896f55075006972c1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\9da5b3f241442b4896f55075006972c1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\15016477a0c3ca04612f8f995fe81ebe\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\15016477a0c3ca04612f8f995fe81ebe\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0d5652c101bf8a2edd62771aaf5b6faa\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0d5652c101bf8a2edd62771aaf5b6faa\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6fd1b5a77f4af7ff253b416d35c594a5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6fd1b5a77f4af7ff253b416d35c594a5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\226c14d52069949b475354616f1e5be4\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\226c14d52069949b475354616f1e5be4\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\be281ff61754c6e6374fa98cf3425981\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\be281ff61754c6e6374fa98cf3425981\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\b5182813fa824de7548f6fc922f3813b\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Main Frame\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\b5182813fa824de7548f6fc922f3813b\AndroidManifest.xml:26:9-47
